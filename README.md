@@ -61,6 +61,8 @@ To analyse sales performance , identify key trends , and uncover business insigh
 
 •	Xiaomi and Vivo drive high unit sales at a lower average price.
 
+•	Iphone SE, OnePlus Nord, Samsung Galaxy Note 20 are high selling mobile phones by model.
+
 •	July ,see highest sales by quantity.
 
 •	Weekends, especially Saturday, see the highest sales.
