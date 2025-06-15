@@ -4,15 +4,52 @@ To analyse sales performance , identify key trends , and uncover business insigh
 ## Dataset used
 <a href="https://github.com/imcodeman24/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx">Mobile Sales Dataset</a>
 ## Questions ( KPI’s )
+
 •	Total Sales 
+
 •	Total Quantity Sold 
+
 •	Average Selling Price 
+
 •	Total Transactions 
+
 •	Sales by City
+
 •	Sales by Brand
+
 •	Sales by Mobile Model
+
 •	Sales by Day Name 
+
 •	Sales by Month
+
 •	Customer Ratings (Good, Average, Poor)
+
 •	Transactions by Payment Method (UPI, Debit Card, Credit Card, Cash)
+
 •	Month-To-Date (MTD) vs. Same Period Last Year (SPLY) Comparison : By Year, Quarter, Month.
+
+
+## Process
+
+•	Verify data for any missing values and anomalies , and sort out the same.
+
+•	Made sure data is consistent and clean with respect to data type, data format and values used.
+
+•	Created custom calendar table using power query.
+
+•	Data Modelling:  Created relationship between tables.
+
+•	Created measures and new columns using DAX.
+
+•	Designed interactive dashboards with slicers.
+
+## Dashboard 1: 
+
+
+## Dashboard 2: 
+
+
+## Dashboard 3:
+
+
