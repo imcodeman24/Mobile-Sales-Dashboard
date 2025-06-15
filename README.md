@@ -42,7 +42,7 @@ To analyse sales performance , identify key trends , and uncover business insigh
 
 •	Created measures and new columns using DAX.
 
-•	Designed interactive dashboards with slicers.
+•	Designed interactive dashboards with slicers and navigation buttons.
 
 ## Dashboard 1: 
 ![Dashboard](https://github.com/user-attachments/assets/8f817ae1-a5c7-4250-bf4a-ea8b3adbfe6d)
