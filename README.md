@@ -45,11 +45,14 @@ To analyse sales performance , identify key trends , and uncover business insigh
 •	Designed interactive dashboards with slicers.
 
 ## Dashboard 1: 
+![Dashboard](https://github.com/user-attachments/assets/8f817ae1-a5c7-4250-bf4a-ea8b3adbfe6d)
 
 
 ## Dashboard 2: 
+![MTD ](https://github.com/user-attachments/assets/475c4c8a-f440-47c8-9dbc-1f09ab266d4e)
 
 
 ## Dashboard 3:
+![Same Period Last year](https://github.com/user-attachments/assets/34c520c5-23d8-44bb-97e8-55bad03500e4)
 
 
