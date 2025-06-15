@@ -55,4 +55,33 @@ To analyse sales performance , identify key trends , and uncover business insigh
 ## Dashboard 3:
 ![Same Period Last year](https://github.com/user-attachments/assets/34c520c5-23d8-44bb-97e8-55bad03500e4)
 
+## Project Insight
+
+•	Apple and Samsung are the top-performing brands in terms of revenue.
+
+•	Xiaomi and Vivo drive high unit sales at a lower average price.
+
+•	July ,see highest sales by quantity.
+
+•	Weekends, especially Saturday, see the highest sales.
+
+•	Customer satisfaction is high, with 100% marked as “Good” ratings in the filtered view—yet some “Average” and “Poor” reviews exist, indicating scope for minor improvements.
+
+•	UPI is the most preferred payment method.
+
+•	Top-performing cities include Bangalore, Mumbai, Delhi, and Hyderabad—key urban markets for mobile sales.
+
+•	YoY sales show consistent growth, especially after 2022.
+
+## Recommendations
+
+•	Focus on premium models like Apple and Samsung in high-performing metro cities for maximum profit.
+
+•	Introduce flash sales or discounts on weekends to capitalize on high footfall and buying intent.
+
+•	Improve average customer ratings by focusing on post-sales support and service quality.
+
+•	Expand marketing campaigns in top cities and explore underperforming regions for growth potential.
+
+•	Optimize stock levels based on monthly and brand-wise sales trends to reduce inventory costs.
 
